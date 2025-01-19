@@ -144,6 +144,14 @@ The property at 123 Main Street is owned by John Doe.
 
 ---
 
+## NYC Real Estate AI Streamlit App
+  The NYC Real Estate AI app is an interactive tool for exploring and querying NYC property data from the ACRIS dataset. It features sections for data exploration, EDA visualizations, and intelligent query handling powered by embeddings and a language model. Users can input natural language queries like "Who owns 123 Main Street?" and receive context-aware, AI-generated responses, along with top-retrieved documents for transparency.
+
+```bash
+  streamlit run app.py
+``` 
+--
+
 ## 7. Troubleshooting
 ### Common Issues
 - **Out of Memory:**
